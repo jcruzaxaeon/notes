@@ -1,17 +1,26 @@
 
 
-# STRYK
+# STRYK 2.0.1 - March 5, 2024
 
-## Wednesday, December 21, 2023
+## .TBL, .TBLS* Format
+```
+Days
+   x  title       n     unit  user  detail
+   _  Cal Tasks   1     hr    ax
+   _  Defrag[G]   1     hr    ax
+   _  Project     1     hr    ax
+   _  Tea, Read   15    min   ax
+   _  Sequencing  30    min   ax
+   _  Read        30    min   nn
 
-### <u>specter</u> (1)
-- [ ] () sksDevTime <= 4-hr during daytime
-- [ ] () opsTime >= 1-hr
-- [ ] () paleo
-- [ ] () buildSKD (draft)
+Results
+   change   total    user
+   0        100      ax
+   0        100      nn
 
-### <u>chubbyneko</u> (1)
-- [ ] () 
-- [ ] () 
-- [ ] ()
+Envelopes
+   total    goal     user
+   0        gold     ax
+   0        choco    nn
+```
 
